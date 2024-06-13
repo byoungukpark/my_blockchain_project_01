@@ -15,6 +15,7 @@ Web3.js v1.10.0
 
 
 ###실행 방법
+
 0. 가나슈 실행 상태
 1. crypto_wordle 파일 다운
 2. cd contracts
